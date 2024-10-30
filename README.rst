@@ -1,9 +1,6 @@
-Template for the Read the Docs tutorial
-=======================================
+Cubic (Cubix)
+=============
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Cubic is a python-c# project to try over 100 tools!
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+`Docs here <https://cubic-project.readthedocs.io/en/stable>`
